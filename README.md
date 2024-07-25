@@ -16,13 +16,9 @@ yarn i
 Later, run the development server:
 
 ```bash
-npm run dev
+npm run start
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn start
 ```
 
 Open [http://localhost:5001/books](http://localhost:5001/books) with your browser to see the result.
